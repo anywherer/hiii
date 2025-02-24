@@ -12,9 +12,9 @@ const config: QuartzConfig = {
     baseUrl: "hiii.au",
     ignorePatterns: [".obsidian", "assets/*.md"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: false,
     theme: {
-      fontOrigin: "googleFonts",
+      // fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "sans-serif",
