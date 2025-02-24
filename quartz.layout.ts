@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Darkmode(),
+    // Component.Darkmode(),
     Component.Search(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    // Component.Darkmode(),
     Component.Explorer(),
   ],
   right: [
@@ -61,7 +61,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    // Component.Darkmode(),
     Component.Explorer(),
   ],
   right: [],
