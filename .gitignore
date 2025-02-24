@@ -1,10 +1,6 @@
 .DS_Store
+
+content/.obsidian/workspace.json
+
 node_modules
 public
-prof
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-private/
-.replit
-replit.nix
