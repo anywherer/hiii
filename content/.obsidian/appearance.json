@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#ff6b00",
+  "enabledCssSnippets": [
+    "cursor",
+    "latex-spacing",
+    "spacing"
+  ],
+  "showRibbon": false,
+  "textFontFamily": ""
+}
