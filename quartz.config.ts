@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
-      // fontOrigin: "googleFonts",
+      fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "sans-serif",
